@@ -78,4 +78,4 @@ The project aims to explore the network structure, dynamics, and user behaviors 
 ## Contributors
 
 Henry Marie Mont (@monthenry)
-Matteo Matone (@matone098)
+Matteo Matone (@maton098)

@@ -21,23 +21,6 @@ The project aims to explore the network structure, dynamics, and user behaviors 
 5. [Demand prediction for a public bike sharing program based on spatio-temporal graph convolutional networks](https://link.springer.com/article/10.1007/s11042-020-08803-y#citeas)
 6. [Spatial-temporal network analysis of the public bicycle sharing system in Medellín, Colombia](https://www.sciencedirect.com/science/article/pii/S0966692322001831)
 
-## Repository Structure
-
-|-- data  
-| |-- raw_data.csv # Raw data obtained from the "MiBici" service  
-| |-- processed_data.csv # Processed data ready for analysis  
-|-- scripts  
-| |-- data_preprocessing.py # Python script for data preprocessing  
-| |-- network_construction.py# Python script for network construction  
-| |-- analysis.py # Python script for network analysis  
-| |-- visualization.py # Python script for visualization  
-|-- paper  
-| |-- paper.tex # LaTeX source file for the research paper  
-| |-- paper.bib # Bibliography file for the research paper  
-| |-- figures # Directory for storing figures used in the paper  
-|-- README.md # This README file  
-
-
 ## Usage
 
 1. **Clone the repository:**
@@ -45,35 +28,8 @@ The project aims to explore the network structure, dynamics, and user behaviors 
    git clone https://github.com/your_username/network-analysis-mibici.git
    ```
 
-2. **Install dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Data preprocessing:**
-
-    ```bash
-    python scripts/data_preprocessing.py
-    ```
-
-4. **Network construction:**
-
-    ```bash
-    python scripts/network_construction.py
-    ```
-
-5. **Analysis:**
-
-    ```bash
-   python scripts/analysis.py
-    ```
-
-6. **Visualization:**
-   
-     ```bash
-    python scripts/visualization.py
-    ```
+2. **Open the .ipynb file:**
+    Using Jupyter Notebook, open the .pynb and run all the cells.
 
 ## Contributors
 
